@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ResumeMatch backend
+backend/.venv/
+backend/__pycache__/
+
+# ResumeMatch frontend
+extension/node_modules/
+extension/dist/
+
+# Local environment files
+.env.*
